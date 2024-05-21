@@ -1,3 +1,53 @@
 <resources>
     <string name="app_name">MarvelBaseProject</string>
+
+    <string name="str_home">Home</string>
+    <string name="str_personajes">Personajes</string>
+    <string name="str_publis">Publicaciones</string>
+    <string name="str_noticias">Noticias</string>
+
+    <string name="str_titulo_home">Marvel-\nComics</string>
+    <string name="str_texto_home">
+        La empresa fue fundada en 1939 bajo el nombre de Timely Comics,
+        su nombre actual es gracias a la primera publicación importante
+        de la empresa “Marvel comics #1”, en donde aparecen por
+        primera vez un super héroe y un villano.
+    </string>
+    <string name="str_texto_home2">
+        No fue hasta los años 60 que la empresa se estabilizo en el
+        género de los super héroes gracias a la creación y éxito de
+        los 4 fantásticos, de la manos de  Stan Lee y Jack Kirby.
+    </string>
+    <string name="str_texto_home3">
+        Hoy en día la empresa es considerada como un gigante de
+        los cómics, con personajes emblemáticos y narrativas innovadoras,
+        influyendo profundamente en la cultura popular global.
+    </string>
+
+    <string name="str_sub1_home">
+        Lo más popular
+    </string>
+    <string name="str_sub2_home">
+        Las mentes detrás del éxito
+    </string>
+
+    <string name="str_categoria1">Comics</string>
+    <string name="str_categoria2">Películas</string>
+
+    <string name="str_persona1">Stan Lee \n Esctritor y editor\n 1922 - 2018</string>
+    <string name="str_persona2">Jack Kirby\n Dibujante y escritor\n 1917-1994</string>
+
+    <string name="str_pelicula1">Spider-Man</string>
+    <string name="str_pelicula2">Spider-Man: \nAcross the Spider-Verse</string>
+    <string name="str_pelicula3">Spider-Man:\nInto the Spider-Verse</string>
+    <string name="str_pelicula4">Vengadores:Infinity War</string>
+    <string name="str_pelicula5">Vengadores:Endgame</string>
+
+    <string name="str_comic1">Civir War</string>
+    <string name="str_comic2">Dinastia de M</string>
+    <string name="str_comic3">Marvels</string>
+    <string name="str_comic4">La visión</string>
+    <string name="str_comic5">Planeta Hulk</string>
+
+
 </resources>
